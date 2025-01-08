@@ -58,6 +58,6 @@ An interactive number guessing game implemented in **MIPS Assembly**. The progra
    - Open the terminal and navigate to the directory containing `asm6.s`.
    - Run the following command:
      ```bash
-     mars <guessing_game.asm>
+     mars <asm6.s>
      ```
    - Follow the prompts in the terminal to play the game.
